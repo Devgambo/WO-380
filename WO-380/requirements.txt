@@ -1,0 +1,10 @@
+# PDF text extraction libraries
+PyPDF2>=3.0.0
+pdfplumber>=0.9.0
+
+# Optional: Additional PDF processing
+# pymupdf>=1.23.0  # Alternative PDF library (fitz)
+# pdfminer.six>=20221105  # Another alternative
+
+# Basic utilities
+requests>=2.31.0
